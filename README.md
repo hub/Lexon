@@ -1,2 +1,2 @@
-# Ultra
-Ultra is the Ven powered blockchain in development by Hub Culture
+# Lexon
+Lexon is a legal and governance layer for AGREE - Automated General Rules for Entering Engagements
